@@ -1,6 +1,6 @@
 Killer Knights Chess
 
-You have to make Killer Knights chess game. 
+You have to make Killer Knights chess game . 
 
 Killer Knights is a chess game in which all the rules are normal except the players have only knights and 1 king as pieces. (Knight is Ghoda)
 
